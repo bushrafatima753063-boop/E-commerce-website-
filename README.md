@@ -54,6 +54,6 @@ Backend database connection
 
 💡 Author
 
-Bushra FatimaFront-End Web Developer passionate about creating clean, modern, and user-friendly web experiences.
+Bushra Fatima Front-End Web Developer passionate about creating clean, modern, and user-friendly web experiences.
 
 ⭐ If you like this project, don’t forget to give it a star!
